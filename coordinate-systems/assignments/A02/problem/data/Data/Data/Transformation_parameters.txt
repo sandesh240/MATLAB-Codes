@@ -1,0 +1,34 @@
+Local transformation parameters:
+
+From station 9 to station 10:
+translation: (6.937, -20.959, -5.135) m
+rotation: (0.6860, -0.2068, -0.6976):1.692 deg
+
+
+From station 10 to station 1:
+translation: (13.355, 37.179, 4.224) m
+rotation: (-0.0290, -0.0024, 0.9996):43.537 deg
+
+
+From station 1 to station 2:
+translation: (20.672, 33.373, 0.119) m
+rotation: (0.0005, 0.0001, -1.0000):79.015 deg
+
+
+From station 2 to station 3:
+translation: (-12.077, 23.572, 0.247) m
+rotation: (0.0228, -0.0020, 0.9997):36.099 deg
+
+
+From station 3 to station 4:
+translation: (-3.715, -33.172, 0.109) m
+rotation: (-0.0062, -0.0089, 0.9999):93.143 deg
+
+
+Global transformation parameters from station 4 to WGS84:
+translation: (4014686.692, 499058.356, 4914517.523) m
+rotation: (-0.3488, 0.1186, -0.9297):131.509 deg
+
+Important note: The rotations are defined with Axis-angle representation,
+where the values in the bracket define the rotation vector, while the
+value behind the brackets is the rotation magnitude. 
